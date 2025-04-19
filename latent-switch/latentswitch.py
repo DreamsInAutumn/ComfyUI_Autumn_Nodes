@@ -2,7 +2,7 @@ import torch
 
 class LatentSwitch:
     """
-    A switch node that allows toggling between two latent inputs with an improved UI
+    A switch node that allows toggling between two latent inputs
     """
     
     @classmethod
