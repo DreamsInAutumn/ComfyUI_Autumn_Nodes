@@ -9,3 +9,9 @@
 
     	Installation
 		Add to the Custom nodes folder, restart
+
+		example folder structure:
+			custom_nodes/
+			└── flux_transfer_node/
+    				├── __init__.py
+    				└── flux_node.py
